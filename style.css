@@ -1,0 +1,70 @@
+body {
+    background-image: url(assets/scores.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.topskor {
+    color: yellow;
+    margin-left: 10%;
+    margin-top: 15%;
+    width: 50%;
+    float: left;
+}
+
+h1 {
+    color: white;
+    margin-left: 5%;
+    margin-top: 40%;
+    width: 100%;
+}
+
+p {
+    color: yellow;
+    margin-left: 5%;
+    margin-top: 15%;
+    width: 45%;
+}
+
+.btn-see {
+    background-color: orange;
+    color: black;
+    font-size: 15px;
+    font-family: "arial";
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 5%;
+    border-radius: 0.5rem;
+}
+
+.card1 {
+position: absolute;
+left: 60.26%;
+right: 8.31%;
+top: 16.58%;
+bottom: 64.37%;
+}
+
+.card2 {
+position: absolute;
+left: 50.12%;
+right: 18.36%;
+top: 38.76%;
+bottom: 39.89%;
+}
+
+.card3 {
+position: absolute;
+left: 57.46%;
+right: 11.02%;
+top: 63.23%;
+bottom: 15.41%;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
